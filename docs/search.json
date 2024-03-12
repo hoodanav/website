@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "Hi!\n\nMy name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor’s in Mathematics and Statistics major and Computer Sciences minor.\nHere is my CV : Download Resume"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nFeel free to reach out for any queries or collaborations.\nEmail: shivankg.goel@mail.utoronto.ca LinkedIn: https://www.linkedin.com/in/shivank-goel-999b911b4/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor’s in Mathematics and Statistics major and Computer Sciences minor. I am interested in teaching mathematics and mathematical educational research. I believe that everyone can learn mathematics and statistics and logic plays an important role in learning them.\nMy relevant coursework is\n\n1. STA302 - Methods of Data Analysis I\n2. CSC311 - Introduction to Machine Learning\n3. MAT402 - Classical Geometries\n4. MAT244 - Differential Equations\n5. MAT302 - Mathematical Cryptography\n6. MAT301 - Groups and Symmetries\n7. MAT236 - Vector Calculus\n8. STA304 - Survey and Sampling\n9. STA258 & STA260 - Probability and Statistics I & ||\n10. MAT202 - Discrete Mathematics"
+  }
+]
