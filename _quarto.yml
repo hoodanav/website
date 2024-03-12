@@ -5,20 +5,22 @@ project:
 
 
 website:
-  title: "Shivank Goel"
+  title: "Navya Hooda"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: About Me 
       - href: contact.qmd
         text: Contact
-        
-        
+      - href: projects.qmd
+        text: Projects
+      
+      
 format:
   html:
-    theme: superhero
+    theme: lux
     css: styles.css
     toc: true
 

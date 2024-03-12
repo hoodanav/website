@@ -2,22 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my personal website",
+    "title": "Welcome to my website!",
     "section": "",
-    "text": "Hi!\n\nMy name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor’s in Mathematics and Statistics major and Computer Sciences minor.\nHere is my CV : Download Resume"
+    "text": "Hello!\nWelcome to my site, I’m Navya Hooda! I am an undergraduate student majoring in Statistics and minoring in Geographical Information Systems and Computer Science at the University of Toronto."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact Me\nFeel free to reach out for any queries or collaborations.\nEmail: shivankg.goel@mail.utoronto.ca LinkedIn: https://www.linkedin.com/in/shivank-goel-999b911b4/"
+    "text": "Let’s Talk\nHave a question or want to chat? Feel free to reach out!\nEmail: navya.hooda@mail.utoronto.ca\nLinkedIn: www.linkedin.com/in/navyahooda\n\nResume\nResume: Download Resume"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor’s in Mathematics and Statistics major and Computer Sciences minor. I am interested in teaching mathematics and mathematical educational research. I believe that everyone can learn mathematics and statistics and logic plays an important role in learning them.\nMy relevant coursework is\n\n1. STA302 - Methods of Data Analysis I\n2. CSC311 - Introduction to Machine Learning\n3. MAT402 - Classical Geometries\n4. MAT244 - Differential Equations\n5. MAT302 - Mathematical Cryptography\n6. MAT301 - Groups and Symmetries\n7. MAT236 - Vector Calculus\n8. STA304 - Survey and Sampling\n9. STA258 & STA260 - Probability and Statistics I & ||\n10. MAT202 - Discrete Mathematics"
+    "text": "Here is a little bit about me!\n\n\nI am currently finishing up my third year in the Statistics major and Computer Science minor at University of Toronto. My interests lie in the intersection of software development, human computer interaction and machine learning. As someone driven by passion for innovation, in the future I plan to be involved within ML and Software Developement opportunities that positively impact users and society in the new era of Aritificial Intelligence.\n\n\n\nThroughout the course of my university journey, I’ve had many learning opportunities to explore data analysis, statistics, and computer science topics in detail and build foundational knowledge in each. As I head into my final year, I am excited to apply these ideas topics towards real machine learning and statistics topics! In the meantime, you can explore some of the projects I have been involved with at Projects\nLast summer, I interned at CIBC as a Software Developer Intern where I gained invaluable hands-on experience in the industry developing a mobile application for the bank. I was able to gain a plethora of end-to-end software developing skills, and mastered several skils like Android Studio, Kotlin and Software Design.\n\n\n\nHere is my resume for a closer look at my skills and experience! Resume: Download Resume\n\n\n\nDuring my time at University of Toronto, I have been able to take some exciting and useful courses that set up my interests in the field of Software and Machine Learning, here are a few notable ones:\n\n1. STA302 - Methods of Data Analysis I\n2. CSC311 - Introduction to Machine Learning\n3. CSC207 - Software Design Principles\n4. CSC263 - Data Structures and Algorithms\n5. STA258 & STA260 - Probability and Statistics I & ||"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About Me",
+    "section": "",
+    "text": "Here is a little bit about me!\n\n\nI am currently finishing up my third year in the Statistics major and Computer Science minor at University of Toronto. My interests lie in the intersection of software development, human computer interaction and machine learning. As someone driven by passion for innovation, in the future I plan to be involved within ML and Software Developement opportunities that positively impact users and society in the new era of Aritificial Intelligence.\n\n\n\nThroughout the course of my university journey, I’ve had many learning opportunities to explore data analysis, statistics, and computer science topics in detail and build foundational knowledge in each. As I head into my final year, I am excited to apply these ideas topics towards real machine learning and statistics topics! In the meantime, you can explore some of the projects I have been involved with at Projects\nLast summer, I interned at CIBC as a Software Developer Intern where I gained invaluable hands-on experience in the industry developing a mobile application for the bank. I was able to gain a plethora of end-to-end software developing skills, and mastered several skils like Android Studio, Kotlin and Software Design.\n\n\n\nHere is my resume for a closer look at my skills and experience! Resume: Download Resume\n\n\n\nDuring my time at University of Toronto, I have been able to take some exciting and useful courses that set up my interests in the field of Software and Machine Learning, here are a few notable ones:\n\n1. STA302 - Methods of Data Analysis I\n2. CSC311 - Introduction to Machine Learning\n3. CSC207 - Software Design Principles\n4. CSC263 - Data Structures and Algorithms\n5. STA258 & STA260 - Probability and Statistics I & ||"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to Projects!\nDue to my interests across Statistics, Computer Science, and GIS I’ve been able to create many projects, across these fields, and it has been a fun combination applying these ideas to different topics. Here are some of the cool projects I have worked on in the past, feel free to reach out if you have questions!\n\nData Analysis\n\n\nAssessing Affordability in Toronto\nIn paper I explored affordability in Toronto through their different neighbourhood employing use of open data from canadian census 2021. Variables like rent, mortage, education level, total income were used to draw conclusions to comment on the state of affordability in Toronto. You can find the analysis here: Repository Link\n\n\nAssessing Factors affecting COVID-19 Learning Outcomes\nIn this paper we explored the impact of COVID-19 upon student academic performance. We analyzed peak COVID years like 2020 and 2021 to draw correlations between factors surrounding the pandemic and measures of academic performance, as well as environmental factors and accessibility to technology. Based on this analysis we define the factors that affected scores the most. Repository Link\n\n\nAccessibility Focused Tetris\nOnline games are not always user friendly for all types of users. In this project I aimed to introduce accessibility features to the game of Tetris. Features like sound effects, voice commands and signals were implemented as a first step towards considering accessibility in technology. You can find the project and a demo here: Tetris Game\n\n\nMapping Mississauga’s Ideal Neighbourhoods\nIn order to help potential new comers in the Mississauga area, I created a web map that assesses common factors people consider before settling down in a city.This map of Mississauga is divided by neighbourhoods to assess upon factors like access to transporation, proximity to facilities, schools, highways and population numbers in order to provide a visual that can aid in exploration of the city. You can find the project here: Web Map of Mississauga"
   }
 ]

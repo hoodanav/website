@@ -2,8 +2,14 @@
 title: "Contact"
 ---
 
-# Contact Me
+# Let's Talk
 
-Feel free to reach out for any queries or collaborations.
+Have a question or want to chat? Feel free to reach out! 
 
-Email: [shivankg.goel@mail.utoronto.ca](mailto: shivankg.goel@mail.utoronto.ca) LinkedIn: [https://www.linkedin.com/in/shivank-goel-999b911b4/](https://www.linkedin.com/in/shivank-goel-999b911b4/)
+Email: navya.hooda@mail.utoronto.ca
+
+LinkedIn: www.linkedin.com/in/navyahooda
+
+
+### Resume 
+Resume: [Download Resume](https://github.com/hoodanav/personal_website/raw/main/Personal-Website-main/Navya_Hooda_Resume_Final.pdf)

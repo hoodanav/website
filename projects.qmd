@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+Welcome to Projects!
+
+Due to my interests across Statistics, Computer Science, and GIS I've been able to create many projects, across these fields, and it has been a fun combination applying these ideas to different topics. Here are some of the cool projects I have worked on in the past, feel free to reach out if you have questions!
+
+### **Data Analysis**
+
+### **Assessing Affordability in Toronto**
+
+In paper I explored affordability in Toronto through their different neighbourhood employing use of open data from canadian census 2021. Variables like rent, mortage, education level, total income were used to draw conclusions to comment on the state of affordability in Toronto. You can find the analysis here: [Repository Link](https://github.com/hoodanav/Toronto_Affordability)
+
+### **Assessing Factors affecting COVID-19 Learning Outcomes**
+
+In this paper we explored the impact of COVID-19 upon student academic performance. We analyzed peak COVID years like 2020 and 2021 to draw correlations between factors surrounding the pandemic and measures of academic performance, as well as environmental factors and accessibility to technology. Based on this analysis we define the factors that affected scores the most. [Repository Link](https://github.com/shivankgoel003/Student-Performance-COVID-19-US-States-Factors.git)
+
+### **Accessibility Focused Tetris**
+
+Online games are not always user friendly for all types of users. In this project I aimed to introduce accessibility features to the game of Tetris. Features like sound effects, voice commands and signals were implemented as a first step towards considering accessibility in technology. You can find the project and a demo here: [Tetris Game](https://github.com/hoodanav/Tetris-by-MMJN)
+
+### **Mapping Mississauga's Ideal Neighbourhoods**
+
+In order to help potential new comers in the Mississauga area, I created a web map that assesses common factors people consider before settling down in a city.This map of Mississauga is divided by neighbourhoods to assess upon factors like access to transporation, proximity to facilities, schools, highways and population numbers in order to provide a visual that can aid in exploration of the city. You can find the project here: [Web Map of Mississauga](https://utoronto.maps.arcgis.com/apps/instant/sidebar/index.html?appid=4cd30abfee34452db340672dfa8effb8)
